@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant discourse betweene conscience and plain-dealing Discovering their trauels, and hard fortunes since these times began; and what hard shifts they have bin put too, for want of entertainment. With their resolution once more to try their fortunes; and to discover in their travels, all that are enemies to conscience and plain-dealing: and to give notice to all honest men, in all cities, and towns, to beware of their hipocriticall double dealing, in their tradings. Then listen all people now, for we are fully bent to tel knavs their own, &amp; give honest men content. Written by C.H. a well-wisher to conscience &amp; plain-dealing; and to ask those that will entertaine them. But for him that wishes ill to them, or mee pray pass a long, A.K.I.C.U.B.</title>
+            <author>C. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43525</idno>
+            <idno type="STC">Wing H16A</idno>
+            <idno type="STC">ESTC R215171</idno>
+            <idno type="EEBO-CITATION">99827129</idno>
+            <idno type="PROQUEST">99827129</idno>
+            <idno type="VID">31543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31543)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1886:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant discourse betweene conscience and plain-dealing Discovering their trauels, and hard fortunes since these times began; and what hard shifts they have bin put too, for want of entertainment. With their resolution once more to try their fortunes; and to discover in their travels, all that are enemies to conscience and plain-dealing: and to give notice to all honest men, in all cities, and towns, to beware of their hipocriticall double dealing, in their tradings. Then listen all people now, for we are fully bent to tel knavs their own, &amp; give honest men content. Written by C.H. a well-wisher to conscience &amp; plain-dealing; and to ask those that will entertaine them. But for him that wishes ill to them, or mee pray pass a long, A.K.I.C.U.B.</title>
+                  <author>C. H.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Burton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date conjectured by Wing.</note>
+                  <note>Printed in black letter.</note>
+                  <note>Gathered in 8's.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conscience --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31543:1" rendition="simple:additions"/>
+            <pb facs="tcp:31543:1" rendition="simple:additions"/>
+            <p>A pleaſant DISCOURSE Betweene CONSCIENCE <hi>and</hi> Plain-dealing.</p>
+            <p>Diſcovering their Trauels, and hard Fortunes ſince theſe Times began; and what hard ſhifts they have bin put too, for want of Entertainment.</p>
+            <p>With their Reſolution once more: to try their Fortunes; and to diſcover in their Travels, all that are enemies to Conſcie<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce and Plain-dealing: and to give notice to all honeſt Men, in all Cities, and Towns, to beware of their Hipocriticall double deal<g ref="char:EOLhyphen"/>ing, in their Tradings.</p>
+            <q>
+               <l>Then liſten all People now, for we are fully bent</l>
+               <l>To tel knavs their own, &amp; give honeſt men content</l>
+            </q>
+            <p>
+               <hi>Written by</hi> C H. <hi>A well-wiſher to</hi> Conſcience <hi>&amp;</hi> Plain-dealing; <hi>and to all thoſe that will entertaine them.</hi>
+            </p>
+            <p>
+               <hi>But for him that wiſhes ill to them, or mee.</hi>
+            </p>
+            <p>
+               <hi>Pray paſs a long, <hi>A. K. I. C. V. B.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed for <hi>Richard Burt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:31543:2"/>
+            <pb n="3" facs="tcp:31543:2" rendition="simple:additions"/>
+            <head>A pleaſant DISCOURSE Betweene <hi>CONSCIENCE</hi> and <hi>Plain-dealing.</hi>
+            </head>
+            <sp>
+               <speaker>Plain-dealing.</speaker>
+               <p>
+                  <hi>O</hi> Mr. <hi>Conſcience</hi> well-met, whether are you walking ſo faſt; I wonder to ſée you here in y<hi rend="sup">e</hi> City, I think you have few friends here to entertaine you, as well as I.</p>
+            </sp>
+            <sp>
+               <speaker>Conſcience.</speaker>
+               <p>
+                  <hi>Honeſt <hi>Plain-dealing</hi> I am glad to ſee thee in health, and as I may ſay I am glad to ſee thy heels at liberty, for tis a wonder ſome Knave or other claps thee not in Priſon, for telling him of his double dealing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:31543:3"/>
+               <speaker>Plain.</speaker>
+               <p>In truth <hi>Conſcience,</hi> Ile tell thée what I am fain to doe (as many honeſt. Men do now a days y<hi rend="sup">t</hi> are my Freindes) e'ne ſay nothing, but give them a touch now &amp; then, and bid them remember thée; there's ſome will ſay nothing, &amp; perhaps will harken to mée; and ſome againe (&amp; the moſt part too) will tell me that they doe not care if thée &amp; I were both hang'd; for they can live without us.</p>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <p>
+                  <hi>Well, Mr. <hi>Plain-dealing,</hi> for I will give you that Title too now? for they are all Maſters, &amp; Miſtreſſes here in the Citty. For being the other day with an honeſt poor man that loves me? for now a days moſt of all my acquaintance are none of the richeſt? Drinking a cup of Beer; in comes on for a penny worth of Ale, I ſeeing her to be a poore Wo<g ref="char:EOLhyphen"/>man profferd her a cup of Beer, &amp; cald her Gammer, ſhe gave me ſuch a ugly look, and told me ſhe was as able to give me a cup a Beere, as I was to give her: ſo going out of doores, I heard the Woman of the Houſe call her <hi>Miſtris:</hi> and told her, that made 16. d. ſo I aſked the Woman, whether ſhe
+<pb n="5" facs="tcp:31543:3"/> was a Gentle-woman that was brought to Poverty by theſe times; (as many there be now, the more is the pitty) no, ſhe told me ſhe was a Dung-hill raker, and her Father had bin a Small-cole Crier from his Child-hood, and her Husband was a Map-maker; and truly I think if her Husband ſhould want ſtock, I thinke all the Clothes of hee Back would ſcarce a yeelded him 6. d. to make Maps off: and ſo ever ſince, I have learn'd to call every on in the Citty Maſter and Miſtris; and I thinke you deſerve the Title Mr. <hi>Plain-dealing</hi> as well as another.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Well Mr. <hi>Conſcience</hi> let it be ſo, we muſt Sir every Iack now, &amp; ſo muſt you, for there is Sir Iohn, Sir honeſt-man, &amp; Sir knave too: but com honeſt Friend let us not talke here in y<hi rend="sup">e</hi> ſtréet, for I am going to a Friend of ours; I know will bid us both wel<g ref="char:EOLhyphen"/>come, for he loves all that loves us, tis but in Cloth-fayre,</p>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <p>
+                  <hi>Sir, I wilbe ready to goe with you, I know who you mean, he and I am very well acquainted.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:31543:4"/>
+               <speaker>Plain.</speaker>
+               <p>So, here's the houſe, come lets goe in for he will be as glad to enter<g ref="char:EOLhyphen"/>taine us, as we are to ſée him.</p>
+               <p>With your leave old Aquaintance, I have made bold to bring a Friend of mine along with mée, I hope he is well come as well as I.</p>
+            </sp>
+            <sp>
+               <speaker>Author.</speaker>
+               <p>
+                  <hi>Why Ge<g ref="char:cmbAbbrStroke">̄</g>tlemen, you are both my old aquaintance, &amp; one as wellcome as the other to mee, &amp; ever was, and I deſire to entertaine you both as long as I Live, &amp; I deſire to entertaine all ſuch as entertaine you, according to my poor Abilitie; and I hope all honeſt men will doe the like: if I had ne'r met with Knaves, (as 'tis too well known I have) my love to you ſhould be more bounti<g ref="char:EOLhyphen"/>fully ſhown.</hi>
+               </p>
+               <lg>
+                  <l>Take in love kind Freinds,</l>
+                  <l>what ſo ere you find here?</l>
+                  <l>You ar truely wellcome unto mee,</l>
+                  <l>and that's your beſt Cheere.</l>
+                  <l>For he that doth <hi>Conſcience</hi> and</l>
+                  <l>
+                     <hi>Plain-dealing</hi> entertaine,</l>
+                  <l>Though poore, yet nere ſhall want,</l>
+                  <l>while with him they remaine.</l>
+                  <l>And ſo her's to you both,</l>
+                  <l>pray let's heare anon,</l>
+                  <pb n="7" facs="tcp:31543:4"/>
+                  <l>What in your Travells,</l>
+                  <l>you have undergon.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>For my part I have Travel<g ref="char:EOLhyphen"/>ed moſt parts of this Land, in Coun<g ref="char:EOLhyphen"/>trie, Town, &amp; City; I never wanted I muſt confeſs, for ſtill found ſome that would entertaine mée, and they would ſend mée from one to another in my Travells: but I went ſtill as a Man turn'd out of ſevice, and went to ſéek one. So coming one Friday into <hi>Smith<g ref="char:EOLhyphen"/>field</hi> to y<hi rend="sup">e</hi> ſign of y<hi rend="sup">e</hi> Black-boy, &amp; there <hi>3</hi> or <hi>4</hi> Country-like Men drinking, aſk't what Country-man I was; I told them a Weſt Countrie-man; they aſk't me w<hi rend="sup">t</hi> I came to <hi>London</hi> for, I told them to ſéek a ſervice if I could méet with an honeſt Maſter; they ak't me w<hi rend="sup">t</hi> I could doe, I told them any thing to get a liv<g ref="char:EOLhyphen"/>ing in y<hi rend="sup">e</hi> way of truth &amp; honeſty; &amp; they were all willing to entertain mée: one of them aſk'd my name; I told them it was <hi>Plain-dealing;</hi> they laught at me, &amp; aſk'd me if I were ſo ſimple to come out of y<hi rend="sup">e</hi> Countrie, to ſéek a ſervice in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> &amp; eſpecially in <hi>Smithfield</hi> amongſt Horſe-ſcourſers; they told me that my Freind <hi>Conſcience</hi> was gon out of
+<pb n="8" facs="tcp:31543:5"/> 
+                  <hi>London,</hi> long ſince, Iuſt as the wars begun, and I had beſt go after, for I ſhould find but ſmall entertainment hear, &amp; for their parts they were not able to kéepe me; they told me, being y<hi rend="sup">e</hi> Wars was begun, I had beſt go and be a Souldier; for there was want of me amongſt them on both ſides, as they heard; ſo I went downe to <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> amongſt the Lawyers, &amp; others that were there, and about the Citty in other places among the Shop kéep<g ref="char:EOLhyphen"/>ers, the Bakers, the Brewers, y<hi rend="sup">e</hi> Cooks the Butchers, y<hi rend="sup">e</hi> Brokers, &amp; the Tay<g ref="char:EOLhyphen"/>lors: ſome entertained me for a whil, and when I told them that conſcience would not give me leave to do ſuch things as they would have me doe, they told me that they muſt not be rul'd by conſcience, nor by me neither, for they muſt do as their Neighbours did, or elſe they were not able to live, ſo well as they did: ſo I could not ſtay long in a place? ſo I was reſol<g ref="char:EOLhyphen"/>ved to ſéeke out my Friend <hi>Conſcienc,</hi> and now we have met here at my Friends Houſe, pray Mr. <hi>Conſcience</hi> tell me how you parted out of y<hi rend="sup">e</hi> Citty.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:31543:5"/>
+               <speaker>Con.</speaker>
+               <p>
+                  <hi>Wel I wil Sir, I did live here in the Citty a little before theſe Wars began pretty well? and had many Friends that did entertaine me, but then Pride, and Covetouſneſs, and Envy got in, &amp; never left til they had baniſhed me clean out; and then the difference begun between the <hi>King</hi> &amp; <hi>Parliament,</hi> and here was like to be Wars, and I ſeeing that, reſolv'd to goe into the Countrey, to ſee what Friends I could find there, that I might live quiet if I could, for that was my deſire, and there <hi>I</hi> found ſom Friends now &amp; then, but they could not do as they would, nor dare not keepe me long, for either one Army or other was with them ſtill; and there was ſome Knaves on both ſides that could not indure me, and would make the poore People for to deny mee, and ſay anything to ſave their Goods: They would Pray very heartily for them before their faces, and wiſh that they were Hang'd, or that the Devill had them, behind their Backes: Looke what Side ſoever came, they muſt be for them &amp; ſay as they ſay;
+<pb n="10" facs="tcp:31543:6"/> when it was ſore againſt me, but ſome Souldiers would be to ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d for them &amp; tell them they were on on ſide, when they were on another? when it may be they had perſwaded the People out of there Religion; then when they had known all there minds tell them they were of the other ſide; it may be raile on that ſide, and cal them Rogues to their faces, but then the great Crock and little Crock, and all muſt go, I &amp; carry away the man of the houſe too, &amp; I along with them; ſo then if the poore man would not turn me off, and deny me his purſe-ſtrings muſt pay ſou<g ref="char:cmbAbbrStroke">̄</g>dly fort; for ſom of the Souldiers could not in<g ref="char:EOLhyphen"/>dure me; then none of the poore people durſt entertaine me any longer: then I was fain to go into the Armies, and to ſpeak the truth, I found Gentlemen on both ſides that did love me, and would entertain me; and I prevaild much with a great many of them, ſo that whereſo<g ref="char:EOLhyphen"/>ever my Maſters marcht, the Countreys fair'd the better, and they fair'd never the worſe; for to be ſure what ſoe<g ref="char:EOLhyphen"/>ver miſhap befell them, I would never leave them; if my Maſters on eîther ſide
+<pb n="11" facs="tcp:31543:6"/> were taken Priſoners, I would ſtir up on or other of that ſide that were their enemies to helpe them, and to be ſure either releaſ'd or relieved, ſo I conti<g ref="char:EOLhyphen"/>nved in the wars, til ſom of my Maſ<g ref="char:EOLhyphen"/>ters had ſpent and loſt all their eſtates, and ſom left off when they ſaw things did not goe as they thought it would do, ſo I left off too: and when I ſaw there was no hopes of peace, but ſtil there was like to be Riſing, and Mu<g ref="char:EOLhyphen"/>tring, and murmuring ſtill; ſo I took my leave of thoſe maſters I had that was reſolvd to ſtay in the Army, and prayd them to remember me in all there martches and they promiſed me they would, and I told them I ſhould be very glad to hear the welfare of all them that loved me ſo taking my leave I came to <hi>London,</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>But jle go and viſit ſom Friends in the Countrey ſomtimes, and to ſee faſhions, and to diſcover the knaveryes of thoſe that doth not love thee nor me, (Bro<g ref="char:EOLhyphen"/>ther <hi>Plain-dealing.</hi>) And jle diſcover them all, for jle favour none let them take it how they will: for <hi>Conſcienc</hi>
+                     <pb n="12" facs="tcp:31543:7"/> muſt ſpeak the truth, but pray how was your progreſſe in the Countrey the time of the War.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Why in truth Brother <hi>Conſci<g ref="char:EOLhyphen"/>ence,</hi> even ſuch another Progreſſe as you had, indéed they that did love me, ſufferd moſt; for them that would ſweare, and dominéere, and be on both-ſides, and ſpeake againſt their Neighbours, and tell the Souldiers, ſuch was Round-heads, and ſuch was Cavaliers, and all to ſave them<g ref="char:EOLhyphen"/>ſelves; ſuch perhaps ſcapt well e<g ref="char:EOLhyphen"/>nough: but ſince the times hath béen quiet, I have ſéene abundance of ſuch Rogues, that can ſcarce get a bit of Bread, to put in their heads, for no honeſt body can abide them, nor will ſet them aworke, and for my part jle nere pitty them, and they were hangd I ſhould nere grive for them; for many an honeſt man that loved thee &amp; mée, hath bin undone by them: I and there was many Souldiers that were as bad: ſome would run from the King to the Parliament, and
+<pb n="13" facs="tcp:31543:7"/> then they would tell that ſuch and ſuch were Caveliers;, and that ſuch a Man had ſent the King Money, and that another had ſent a Horſe, y<hi rend="sup">t</hi> another had ſent Vittalls? when a<g ref="char:EOLhyphen"/>lack, twas taken from them by force; which made the poore men be Plun<g ref="char:EOLhyphen"/>dered by both Armies; for what the one left the other tooke: and ſome a<g ref="char:EOLhyphen"/>gaine would run from the Parlia<g ref="char:EOLhyphen"/>ment, to the King, and tell that ſuch and ſuch was Round-heads, and ſo cauſe them to be plundered, I think either ſide might have ſpared ſuch as thoſe to the Hang-man, and the Armies nere the more weakned, for when the Armies were a Fighting to be ſure they would be a Plunde<g ref="char:EOLhyphen"/>ring, and never go in danger, for feare of taking: for they knew whereto they muſt, ean put on their Hempen band and up be truſt: but well leave off this diſcourſe for there are ſome heare that would faine heare our opinion of the times and prithy Brother <hi>Conſcie<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce</hi> what doſt thou thinke of them, doſt thinke we ſhall have peace now.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:31543:8"/>
+               <speaker>Con.</speaker>
+               <p>
+                  <hi>Why Brother <hi>Plain-dealing</hi> I muſt ſay as many now will ſay, if you aſke me I cannot tell, but jle tell thee my opinion, ſo long as thee and I are ſo little regarded as we are, there wilbe on hart-burning or another, what ſaieſt thou Brother.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Plain-</speaker>
+               <p>And truly Brother <hi>Conſci<g ref="char:EOLhyphen"/>ence</hi> be plaine and briefe, God cannot be pleaſed with us ſo long as theſe Sinns Raignes thus in the Land; Pride raigns inſtead of Humility; Covetouſneſſe, inſtead of Charity, Drunkenneſſe, inſtead of Sobriety; Wrath and Envy, inſtead of Love, &amp; Vnity: inſtead of Peace, Diſcention, Backbiters, and Slanderers; and in<g ref="char:EOLhyphen"/>ſtead of Plain-dealing Cuſening and Cheating: theſe are the ſins that hinders our Peace, for the Lord ſaith there ſhalbe no Peace to the wicked.</p>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <p>
+                  <hi>You ſpeak truth Brother, the Countrey complaines, and Citty too of the Exciſe, and Taxes, and Rates, and the deadneſſe of Trading; and they do not conſider it is their ſinns
+<pb n="15" facs="tcp:31543:8"/> that hath cauſ'd theſe burthens, to be laid upon the Land,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Indéed Brother <hi>Conſcience,</hi> I muſt confeſſe, in my travells, I have heard great complaint in the Inns &amp; Ale-houſes, of the Exciſe: for my part jle be plain with them, that if it were taken off no body would be the better for't, vnleſs it were them; unleſs there were ſome ſtrickt courſ taken in ordering what Béere they ſhould Brew, and how they ſhould ſell it, for there is no body payes the Exciſe but Tradeſ-men, Good-fellows, and Travellors; let Malt be cheap or deare, y<hi rend="sup">e</hi> Ale is all at on price, and all on goodneſſe; a Iug or a Flaggon for <hi>2. d.</hi> Indéed they cannot live un<g ref="char:EOLhyphen"/>leſſe they get <hi>9. d.</hi> in the ſhilling, and ſo I thinke they do many times in their miſreckonings, their Fro<g ref="char:EOLhyphen"/>thing of Iugs, and their halfe bot<g ref="char:EOLhyphen"/>tom'd Flaggons: with your eight penny, and ten penny ordinaries to your Paſſengers &amp; Travellers when they ſcarce eat a penny-worth of vic<g ref="char:EOLhyphen"/>tuals, and your Waggoners and
+<pb n="16" facs="tcp:31543:9"/> Carriers payes a great or <hi>6 d</hi> or nothing perhaps, and eats a ſhillings worth of victuals: you had néed be eaſ'd of your Exciſe; you are not fatt enough already; Silke-gownes and Peticotes and Bever-hats is not good enough for you; your Chil<g ref="char:EOLhyphen"/>dren, in Silver-lace, when it may be your Parents could ſcarce bring you up without the Almes of the Pariſh; ſome of you knows it, and I know't too: for I am <hi>Plain-dealing</hi> and muſt tell you of it, if good-fellows would be ruled by me, you ſhould vſe a better Conſcience to get your Money, and not maintaine you in Silks, when many an honeſt Far<g ref="char:EOLhyphen"/>mer, and Tradeſ-mans Wife; is glad to get good Cloth on their backs: tis true I could wiſh the poore Far<g ref="char:EOLhyphen"/>mers were eaſed of their Taxes and Rates, for the Lord make us thankfull all things are ſo plentifull that he m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt be a good Husband whe<g ref="char:EOLhyphen"/>ther he will or no; or elſe he were not able to undergoe them: but for your proud unconſcionable Hoſtiſes I pitty them not much, if I ſhould ſee
+<pb n="17" facs="tcp:31543:9"/> ſome courſe taken with them, for y<hi rend="sup">e</hi> ex<g ref="char:EOLhyphen"/>acting on Travellers, as I ſhould of a Baker, when he is to go to the Pillory for making of light Bread, I hope ere long there will be a courſe taken for both, and when they ſée it, they muſt make vſe of me more then they did.</p>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <p>Now you talke of Bakers Bro<g ref="char:EOLhyphen"/>ther, Ile ſpeake my Conſcience I thin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e they are as unconſcionable in many places as the Ale-Wives: and I could name ſome Chiefe places of my Travels where I think they ſhould have been better look't after, there is <hi>Noridge</hi> an anchient Cit<g ref="char:EOLhyphen"/>ty I thinke there penny Bread was full as big as halfe-penny Bread in o<g ref="char:EOLhyphen"/>ther places, I told my Landelord at <hi>Abra<g ref="char:EOLhyphen"/>hams-hall</hi> that I would have them in Print, there is <hi>Briſtow</hi> and <hi>Saliſbury</hi> too, and many other places that I could name, <hi>Conſcience</hi> muſt néeds tell their Maieſtrates that they are in the blame.</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Well Brother <hi>Conſc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ence,</hi> ile tell thée what we'l do; we'l go travell once more? thou ſhalt goe North-ward
+<pb n="18" facs="tcp:31543:10"/> and Ile goe Weſt-warde, and ſo we'l Cercuit till we méet at <hi>London</hi> againe, we'l viſit every great Fayre, for there wée ſhall find out abou<g ref="char:cmbAbbrStroke">̄</g>dance of Knav<g ref="char:EOLhyphen"/>ery, for y<hi rend="sup">e</hi> Proverb goes thers Knavery in all Trads: and I hope wée ſhall find ſome honeſt Men of all Trads which will entertaine us. I intend to ſée Briſtoll Fayre (God willing) for there comes Trads-men from all Parts; and aboundance of <hi>Londoners,</hi> and y<hi rend="sup">t</hi> Coun<g ref="char:EOLhyphen"/>try people are very fearfull of them.</p>
+               <p>And for any thing as I ſée, there is as much double dealing vſed in y<hi rend="sup">e</hi> Coun<g ref="char:EOLhyphen"/>trie by your Trads-men there, as there is by your <hi>Londoners?</hi> and you are too hard for them ſometimes? when your Sop-kéepers in y<hi rend="sup">e</hi> Countrie gives ſuch a Crack, which makes ſuch a Sound in the <hi>Londoners</hi> eares, that they are the worſe fort a great while afterward.</p>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <p>Honeſt <hi>Plain-dealing</hi> I am will<g ref="char:EOLhyphen"/>ing to take thy Advice &amp; ſée the Coun<g ref="char:EOLhyphen"/>trey once more? and now every thing is ſo Plentifull we'l ſée what enter<g ref="char:EOLhyphen"/>tainment thée and I ſhall have: Ile ſtay <hi>Bartholomew</hi>-Fayre at <hi>London,</hi> and then to <hi>Sturbridge,</hi> and ſo to <hi>Yorkſhire<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> for there I had vſed to be much regard<g ref="char:EOLhyphen"/>ed amongſt Them.</p>
+               <pb n="19" facs="tcp:31543:10"/>
+               <p>Good Ale is the deareſt Penny worth there? for Vitalls will coſt you little or nothing, if you be a good-fellow.</p>
+               <p>But honeſt Brother, prethe let me give thée ſome Inſtructions in your Travell: and I would deſire ſome of yours, for where I am, ile put them in minde of you: and where you are, bid them remember mée.</p>
+            </sp>
+            <sp>
+               <speaker>Plain.</speaker>
+               <p>Well I will, and now tell me what I ſhall doe, for <hi>Plaindealing</hi> muſt be ruld by <hi>Conſcience</hi> and <hi>Conſcience</hi> by <hi>Plaindealing?</hi> for he that vſeth one, muſt vſe the other.</p>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <p>Firſt bid the Shop-kéepers and Sails-men, provide them light Shops, and not dark Romes? whereby to deceive their Cuſtomers, to make them take old Cloath inſtead of new, and courſe Cloath inſtead of fine. And bid the Whole-ſaile Men ſell good Peny-worths to their Cuſtomers, and when they truſt them not take to much Gaines: For here they get nought but Inke and Paper for their paines: and pray bid all Trades-Men their, have a care of Lying, for it m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y be they dare not Sware, for feare they are made pay for't? and bid their Cuſtomers not
+<pb n="20" facs="tcp:31543:11"/> believe them when they ſay they looſe by their comodities, or get nothing by them, for ſuch as thoſe will cheat them moſt? and pray invite all the Horſe-ſcorcers in the Fayre that makes much of thée and me, and bid them to din<g ref="char:EOLhyphen"/>ner but to be ſure do not provide too much vittals, for feare your company be ſo ſmall, you muſt be glad to eat it your ſelfe, pray invite them to the Sign of the Logger-head, for that is néere the Fayre: and pray bid the Hop-merchants kéepe there Flemiſh Hopps, and ſell there Engliſh if they have any; bid them have a care they do not ſell Flemmiſh inſtead of En<g ref="char:EOLhyphen"/>gliſh, for if they Love mée, they will not: and bid the Bakers remember me, and tell them you are a Friend of mine, and muſt take notice of ſuch as Loves not <hi>Conſcience</hi> and <hi>Plain-dealing;</hi> bid them all remember thée and I? and tell them that the Faire would be a great deale the bet<g ref="char:EOLhyphen"/>ter, (and all Fayres, and Markets elſe) if they would make vſe of thée and I, to helpe them in their Buy<g ref="char:EOLhyphen"/>ing and Selling? and not vſe falſe Waights and Meaſures, and deceitfull<g ref="char:EOLhyphen"/>neſſe in their Trading: for light gains, &amp; quick ſaile, wil mak a heavy Purſſe.</p>
+            </sp>
+            <sp>
+               <pb n="21" facs="tcp:31543:11"/>
+               <speaker>Plain.</speaker>
+               <p>Well Brother <hi>Conſc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ence,</hi> I intend to follow thy directions, and prithy where thou goeſt bid them re<g ref="char:EOLhyphen"/>member mée: and let not Shop-kéep<g ref="char:EOLhyphen"/>ers and Trads Men uſe double dealing ſo much as they doe? nor kéep but one ſort of Waights, and Meaſures, to buy and ſell by: and let them turne out Hypocracy out of their Shops, for a great many have kept him to be the Fore-man of the Shop inſtead of mée? and ſo haue deceived the People: but I hope we ſhall diſcover them all: for the People begin to find them out al<g ref="char:EOLhyphen"/>ready, for indeed, and forſooth, and in truth? they have cheated many an honeſt Man: not an Oath, but as ma<g ref="char:EOLhyphen"/>ny Lyes as you pleaſe: I adviſe all to have a care of them, and nor deale with any, if you know them to be ſuch: for he that will Sware, will Ly, and he that will Ly would Sware too, if it were not in hopes to Couſſen you the more.</p>
+               <p>Pray remember me to all the honeſt Inns, and Ale-houſes that you goe too in your Travells, and tell them they will be near the poorer for entertain<g ref="char:EOLhyphen"/>ing you. For indéed in the North parts, &amp; eſpecially in Yorkſhire they vſe ſome Conſcience there, therefore you néed not feare entertainment. Remember
+<pb n="22" facs="tcp:31543:12"/> me to al our Friends at <hi>Shefield,</hi> and bid the Cutlers there not glaze their knives ſo much as they do, nor <hi>Bromygum</hi> nei<g ref="char:EOLhyphen"/>ther, for they leave ſo little Stéele on, y<hi rend="sup">t</hi> when they are vſ'd a while the heat of the meat melts al the ſtéel away: there is a place cal'd <hi>Cuckolds-haven</hi> néere <hi>Shefield,</hi> where I hard, the Hoſt of the Houſe formerly dealt ſo much with that Ware, and had ſo much credit of his dealers in <hi>Sheffield;</hi> &amp; got ſo much cre<g ref="char:EOLhyphen"/>dit by his Ware, by Sea and Land, y<hi rend="sup">t</hi> he hath built him this plac cal'd Cuc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>olds-haven? which by report coſt his dealers thrée hundrd pound y<hi rend="sup">e</hi> building: wher they got ſo much by him I know not? but good brother <hi>Conſcience</hi> come not there, for he'l turn you out of doors, for by report he never knew you in his life, &amp; he cares not for ſtrangers, its y<hi rend="sup">e</hi> trick of a knav youl ſay: tis pitty knavs ſhould flouriſh ſo in Town and Citty.</p>
+               <p>Pray Brother <hi>Conſcience</hi> bid y<hi rend="sup">e</hi> Cloa<g ref="char:EOLunhyphen"/>thyers to br<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng as much Cloth as they can this Summer, while the weather is dry? but let them give good meaſure when they ſell it? &amp; perſwade y<hi rend="sup">e</hi> people y<hi rend="sup">t</hi> buys it: to take enough for feare they ſhould find none to match it when tis ſhrunke: &amp; pray adviſe all Coun rey-men and wmoen y<hi rend="sup">t</hi> comes to Markets and
+<pb n="23" facs="tcp:31543:12"/> Fayres, to have a care how that they part from their Money, and let them not part from it to them that will tak't at a venter, and never tell it, for then they will have nothing for it; but trou<g ref="char:EOLhyphen"/>ble to find it againe: &amp; pray let all coun<g ref="char:EOLhyphen"/>trey men and others where they are merry, &amp; in drinke: have a care of Ga<g ref="char:EOLhyphen"/>ming, for fear they méet with a diſh of Rooks that wilbe ſo ſaucy they,l not be able to diſgeſt them in a good while af<g ref="char:EOLhyphen"/>ter, and I would adviſe Young men to have a care of their pockets, and Maids have a care of their plackets, for when y<hi rend="sup">t</hi> drinke is in y<hi rend="sup">e</hi> wit is out, for both may have ſowre ſance to their ſwéet meat, if they have not a care.</p>
+               <p>And in the next place I adviſe all, let them be rich or poore, old or young, to hate ſwearing, and lying, cuſening and cheating, quarling &amp; fighting, do as they would be don by? kéep a good conſcience, and love plaindealing. Let a man be honeſt, Iuſt &amp; faire, then where he goes he néed not care; So once more wée are reſolvd to ſée, where conſcience &amp; plain<g ref="char:EOLhyphen"/>dealing beſt entertain'd ſhall-be. And when we have gon our circut rou<g ref="char:cmbAbbrStroke">̄</g>d we'l tell you wher conſcience &amp; plaindealing may be found: ſo fare well tell wée doe méet again: for conſcience &amp; plaindeal<g ref="char:EOLhyphen"/>ing, mongſt ſome doth ſtill remain. <hi>The</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="authors_note">
+            <pb n="24" facs="tcp:31543:13"/>
+            <head>The <hi>Authors</hi> advice.</head>
+            <p>WEll honeſt Men &amp; Women, ei<g ref="char:EOLhyphen"/>ther in Countrey or City? let mée like a freind, adviſe you to take notice of what you have hard here in this Booke; and be not angry if <hi>Conſcienc</hi> and <hi>Plain-dealing</hi> hath told you of ſom of your faults, if you are wiſe you will ſéeke to amend them, and not like a Gaul'd-horſe kick and wince when you are rubd? and though it be a Proverb amongſt a many, that Conſcience is hang'd, and he that loves Plain-dealing wil <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie a Begger? yet tel thoſe Knaves where you do them ſée: that Conſcience is not hangd, though loſt with them he be: and though Plain-dealing dies a begger as ſome ſay? he gains at laſt, though here he loſe the day.</p>
+            <lg>
+               <l>Some grows Rich, and ſome grows poore,</l>
+               <l>Some gets Houſes, ſome turn'd out of doore,</l>
+               <l>Some gets by Swearing, Cheating, and Lying.</l>
+               <l>And ſome gets eſtates without any buying;</l>
+               <l>But he that loves Conſcience &amp; Plain-dealing to</l>
+               <l>To live in theſe rimes he? I have much to doe,</l>
+               <l>So far you well, my Name begins with C.</l>
+               <l>A Friend to Conſcience and plain-dealing wher ſo ere they be,</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31543:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
